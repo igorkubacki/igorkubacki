@@ -31,17 +31,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
   </div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorkubacki&langs_count=4&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorkubacki&langs_count=4&theme=dark" />
 </div>
-
-
-<!--
-**igorkubacki/igorkubacki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me:
