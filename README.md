@@ -16,7 +16,7 @@
 
 <div align="center">
   <h1> 👷‍♂️ Currently working on</h1>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=igorkubacki&repo=AvailabilityMonitor-Firebase&theme=dark" /><br />
+  <a href="https://github.com/igorkubacki/AvailabilityMonitor-Firebase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=igorkubacki&repo=AvailabilityMonitor-Firebase&theme=dark" /></a><br />
   Availability Monitor is a web app that helps to monitor product stock and prices. It already does its job and works pretty well, however I would like to add a little more (improve responsiveness, make the UI more attractive and add some features). Find out more in the <a href="https://github.com/igorkubacki/AvailabilityMonitor-Firebase#-future-improvements">Future improvements</a> section.
 </div>
 
