@@ -33,5 +33,5 @@
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
     <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
   </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorkubacki&langs_count=4&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorkubacki&hide=shaderlab&theme=dark" />
 </div>
