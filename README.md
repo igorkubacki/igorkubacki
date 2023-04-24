@@ -37,5 +37,5 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
   </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorkubacki&hide=shaderlab&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorkubacki&hide=shaderlab&theme=dark&exclude_repo=se_nauka_gita" />
 </div>
